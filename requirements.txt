@@ -1,0 +1,10 @@
+# Dependency list, not an experimentally verified lockfile.
+# Install a PyTorch build compatible with your CUDA environment.
+torch
+transformers
+accelerate
+safetensors
+numpy
+pandas
+scikit-learn
+tqdm
