@@ -364,7 +364,7 @@ The standard and Gemma BoolQ steering scripts save hidden states as `hidden_stat
 - Python syntax and command-line help checks were performed for all 13 scripts. No real-model inference or steering run was performed in the preparation environment. Validate the revised intervention schedule with the actual models before publication.
 - The exact package versions and model revisions used for the paper were not supplied as a lockfile. Record them for exact reproducibility.
 - The code archive does not include the QA datasets, persuasion prompts, model weights, hidden states, or a separate behavior-metric aggregation script. Place the scripts alongside the existing dataset and prompt directories.
-- Some original Japanese comments and error messages remain; experimental prompt strings were preserved.
+- Comments, docstrings, and error messages are in English; experimental prompt strings were preserved.
 
 ## Citation
 
